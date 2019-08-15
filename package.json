@@ -1,0 +1,14 @@
+{
+  "name": "szeutils",
+  "version": "1.0.0",
+  "description": "Some helpful functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sze",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
