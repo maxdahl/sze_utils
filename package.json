@@ -1,6 +1,6 @@
 {
   "name": "szeutils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some helpful functions",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,5 @@
   },
   "author": "sze",
   "license": "MIT",
-  "dependencies": {
-    "jsonwebtoken": "^8.5.1"
-  }
+  "dependencies": {}
 }
